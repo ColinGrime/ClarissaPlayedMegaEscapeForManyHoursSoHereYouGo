@@ -1,0 +1,327 @@
+[0] Truck #1 -- Delivery has begun.
+[15] Truck #2 -- Delivery has begun.
+[30] Truck #3 -- Delivery has begun.
+[45] Truck #4 -- Delivery has begun.
+[60] Truck #5 -- Delivery has begun.
+[75] Truck #6 -- Delivery has begun.
+[90] Truck #7 -- Delivery has begun.
+[94] Train #11 -- Entered the crossing -- now blocking.
+[100] Truck #1 -- Delivery is blocked -- waiting.
+[105] Truck #8 -- Delivery has begun.
+[115] Truck #2 -- Delivery is blocked -- waiting.
+[120] Truck #9 -- Delivery has begun.
+[130] Truck #3 -- Delivery is blocked -- waiting.
+[135] Truck #10 -- Delivery has begun.
+[145] Truck #4 -- Delivery is blocked -- waiting.
+[150] Truck #11 -- Delivery has begun.
+[160] Truck #5 -- Delivery is blocked -- waiting.
+[165] Truck #12 -- Delivery has begun.
+[171] Train #11 -- No longer blocking -- past the crossing.
+[171] Truck #1 -- Crossing the railroad.
+[172] Truck #2 -- Crossing the railroad.
+[173] Truck #3 -- Crossing the railroad.
+[174] Truck #4 -- Crossing the railroad.
+[175] Truck #5 -- Crossing the railroad.
+[175] Truck #6 -- Crossing the railroad.
+[180] Truck #13 -- Delivery has begun.
+[190] Truck #7 -- Crossing the railroad.
+[195] Truck #14 -- Delivery has begun.
+[205] Truck #8 -- Crossing the railroad.
+[210] Truck #15 -- Delivery has begun.
+[213] Train #2 -- Entered the crossing -- now blocking.
+[220] Truck #9 -- Delivery is blocked -- waiting.
+[225] Truck #16 -- Delivery has begun.
+[235] Truck #10 -- Delivery is blocked -- waiting.
+[240] Truck #17 -- Delivery has begun.
+[250] Truck #11 -- Delivery is blocked -- waiting.
+[255] Truck #18 -- Delivery has begun.
+[265] Truck #12 -- Delivery is blocked -- waiting.
+[270] Truck #19 -- Delivery has begun.
+[280] Truck #13 -- Delivery is blocked -- waiting.
+[285] Truck #20 -- Delivery has begun.
+[295] Truck #14 -- Delivery is blocked -- waiting.
+[300] Truck #21 -- Delivery has begun.
+[302] Train #2 -- No longer blocking -- past the crossing.
+[302] Truck #9 -- Crossing the railroad.
+[303] Truck #10 -- Crossing the railroad.
+[304] Truck #11 -- Crossing the railroad.
+[305] Truck #12 -- Crossing the railroad.
+[306] Truck #13 -- Crossing the railroad.
+[307] Truck #14 -- Crossing the railroad.
+[310] Truck #15 -- Crossing the railroad.
+[315] Truck #22 -- Delivery has begun.
+[325] Truck #16 -- Crossing the railroad.
+[330] Truck #23 -- Delivery has begun.
+[340] Truck #17 -- Crossing the railroad.
+[345] Truck #24 -- Delivery has begun.
+[355] Truck #18 -- Crossing the railroad.
+[360] Truck #25 -- Delivery has begun.
+[370] Truck #19 -- Crossing the railroad.
+[375] Truck #26 -- Delivery has begun.
+[376] Train #5 -- Entered the crossing -- now blocking.
+[385] Truck #20 -- Delivery is blocked -- waiting.
+[390] Truck #27 -- Delivery has begun.
+[400] Truck #21 -- Delivery is blocked -- waiting.
+[405] Truck #28 -- Delivery has begun.
+[412] Train #5 -- No longer blocking -- past the crossing.
+[412] Truck #20 -- Crossing the railroad.
+[413] Truck #21 -- Crossing the railroad.
+[415] Truck #22 -- Crossing the railroad.
+[420] Truck #29 -- Delivery has begun.
+[430] Truck #23 -- Crossing the railroad.
+[435] Truck #30 -- Delivery has begun.
+[438] Train #3 -- Entered the crossing -- now blocking.
+[445] Truck #24 -- Delivery is blocked -- waiting.
+[450] Truck #31 -- Delivery has begun.
+[460] Truck #25 -- Delivery is blocked -- waiting.
+[465] Truck #32 -- Delivery has begun.
+[475] Truck #26 -- Delivery is blocked -- waiting.
+[480] Truck #33 -- Delivery has begun.
+[490] Truck #27 -- Delivery is blocked -- waiting.
+[495] Truck #34 -- Delivery has begun.
+[505] Truck #28 -- Delivery is blocked -- waiting.
+[510] Truck #35 -- Delivery has begun.
+[520] Truck #29 -- Delivery is blocked -- waiting.
+[525] Truck #36 -- Delivery has begun.
+[535] Truck #30 -- Delivery is blocked -- waiting.
+[540] Truck #37 -- Delivery has begun.
+[550] Truck #31 -- Delivery is blocked -- waiting.
+[555] Truck #38 -- Delivery has begun.
+[564] Train #3 -- No longer blocking -- past the crossing.
+[564] Truck #24 -- Crossing the railroad.
+[565] Truck #32 -- Crossing the railroad.
+[565] Truck #25 -- Crossing the railroad.
+[566] Truck #26 -- Crossing the railroad.
+[567] Truck #27 -- Crossing the railroad.
+[568] Truck #28 -- Crossing the railroad.
+[569] Truck #29 -- Crossing the railroad.
+[570] Truck #30 -- Crossing the railroad.
+[570] Truck #39 -- Delivery has begun.
+[571] Truck #31 -- Crossing the railroad.
+[580] Truck #33 -- Crossing the railroad.
+[585] Truck #40 -- Delivery has begun.
+[595] Truck #34 -- Crossing the railroad.
+[600] Truck #41 -- Delivery has begun.
+[610] Truck #35 -- Crossing the railroad.
+[615] Truck #42 -- Delivery has begun.
+[625] Truck #36 -- Crossing the railroad.
+[627] Train #1 -- Entered the crossing -- now blocking.
+[630] Truck #43 -- Delivery has begun.
+[640] Truck #37 -- Delivery is blocked -- waiting.
+[645] Truck #44 -- Delivery has begun.
+[655] Truck #38 -- Delivery is blocked -- waiting.
+[660] Truck #45 -- Delivery has begun.
+[670] Truck #39 -- Delivery is blocked -- waiting.
+[675] Truck #46 -- Delivery has begun.
+[685] Truck #40 -- Delivery is blocked -- waiting.
+[690] Truck #47 -- Delivery has begun.
+[695] Train #1 -- No longer blocking -- past the crossing.
+[695] Truck #37 -- Crossing the railroad.
+[696] Truck #38 -- Crossing the railroad.
+[697] Truck #39 -- Crossing the railroad.
+[698] Truck #40 -- Crossing the railroad.
+[700] Truck #41 -- Crossing the railroad.
+[705] Truck #48 -- Delivery has begun.
+[715] Truck #42 -- Crossing the railroad.
+[720] Truck #49 -- Delivery has begun.
+[730] Truck #43 -- Crossing the railroad.
+[735] Truck #50 -- Delivery has begun.
+[745] Truck #44 -- Crossing the railroad.
+[750] Truck #51 -- Delivery has begun.
+[760] Truck #45 -- Crossing the railroad.
+[764] Train #9 -- Entered the crossing -- now blocking.
+[765] Truck #52 -- Delivery has begun.
+[775] Truck #46 -- Delivery is blocked -- waiting.
+[780] Truck #53 -- Delivery has begun.
+[790] Truck #47 -- Delivery is blocked -- waiting.
+[795] Truck #54 -- Delivery has begun.
+[805] Truck #48 -- Delivery is blocked -- waiting.
+[810] Truck #55 -- Delivery has begun.
+[820] Truck #49 -- Delivery is blocked -- waiting.
+[825] Truck #56 -- Delivery has begun.
+[828] Train #9 -- No longer blocking -- past the crossing.
+[828] Truck #46 -- Crossing the railroad.
+[829] Truck #47 -- Crossing the railroad.
+[830] Truck #48 -- Crossing the railroad.
+[831] Truck #49 -- Crossing the railroad.
+[835] Truck #50 -- Crossing the railroad.
+[840] Truck #57 -- Delivery has begun.
+[850] Truck #51 -- Crossing the railroad.
+[855] Truck #58 -- Delivery has begun.
+[862] Train #12 -- Entered the crossing -- now blocking.
+[865] Truck #52 -- Delivery is blocked -- waiting.
+[870] Truck #59 -- Delivery has begun.
+[880] Truck #53 -- Delivery is blocked -- waiting.
+[885] Truck #60 -- Delivery has begun.
+[895] Truck #54 -- Delivery is blocked -- waiting.
+[900] Truck #61 -- Delivery has begun.
+[910] Truck #55 -- Delivery is blocked -- waiting.
+[915] Truck #62 -- Delivery has begun.
+[925] Truck #56 -- Delivery is blocked -- waiting.
+[930] Truck #63 -- Delivery has begun.
+[940] Truck #57 -- Delivery is blocked -- waiting.
+[945] Truck #64 -- Delivery has begun.
+[955] Truck #58 -- Delivery is blocked -- waiting.
+[960] Truck #65 -- Delivery has begun.
+[970] Truck #59 -- Delivery is blocked -- waiting.
+[975] Truck #66 -- Delivery has begun.
+[985] Truck #60 -- Delivery is blocked -- waiting.
+[990] Truck #67 -- Delivery has begun.
+[1000] Truck #61 -- Delivery is blocked -- waiting.
+[1004] Train #12 -- No longer blocking -- past the crossing.
+[1004] Truck #52 -- Crossing the railroad.
+[1005] Truck #53 -- Crossing the railroad.
+[1005] Truck #68 -- Delivery has begun.
+[1006] Truck #54 -- Crossing the railroad.
+[1007] Truck #55 -- Crossing the railroad.
+[1008] Truck #56 -- Crossing the railroad.
+[1009] Truck #57 -- Crossing the railroad.
+[1010] Truck #58 -- Crossing the railroad.
+[1011] Truck #59 -- Crossing the railroad.
+[1012] Truck #60 -- Crossing the railroad.
+[1013] Truck #61 -- Crossing the railroad.
+[1015] Truck #62 -- Crossing the railroad.
+[1019] Train #8 -- Entered the crossing -- now blocking.
+[1020] Truck #69 -- Delivery has begun.
+[1030] Truck #63 -- Delivery is blocked -- waiting.
+[1035] Truck #70 -- Delivery has begun.
+[1045] Truck #64 -- Delivery is blocked -- waiting.
+[1050] Truck #71 -- Delivery has begun.
+[1060] Truck #65 -- Delivery is blocked -- waiting.
+[1065] Truck #72 -- Delivery has begun.
+[1071] Truck #1 -- Delivery is complete.
+[1072] Truck #2 -- Delivery is complete.
+[1073] Truck #3 -- Delivery is complete.
+[1074] Truck #4 -- Delivery is complete.
+[1075] Truck #5 -- Delivery is complete.
+[1075] Truck #6 -- Delivery is complete.
+[1075] Truck #66 -- Delivery is blocked -- waiting.
+[1080] Truck #73 -- Delivery has begun.
+[1089] Train #8 -- No longer blocking -- past the crossing.
+[1089] Truck #63 -- Crossing the railroad.
+[1090] Truck #7 -- Delivery is complete.
+[1090] Truck #64 -- Crossing the railroad.
+[1090] Truck #67 -- Crossing the railroad.
+[1091] Truck #65 -- Crossing the railroad.
+[1092] Truck #66 -- Crossing the railroad.
+[1095] Truck #74 -- Delivery has begun.
+[1105] Truck #68 -- Crossing the railroad.
+[1105] Truck #8 -- Delivery is complete.
+[1110] Truck #75 -- Delivery has begun.
+[1120] Truck #69 -- Crossing the railroad.
+[1125] Truck #76 -- Delivery has begun.
+[1135] Truck #70 -- Crossing the railroad.
+[1140] Truck #77 -- Delivery has begun.
+[1146] Train #7 -- Entered the crossing -- now blocking.
+[1150] Truck #71 -- Delivery is blocked -- waiting.
+[1155] Truck #78 -- Delivery has begun.
+[1165] Truck #72 -- Delivery is blocked -- waiting.
+[1170] Truck #79 -- Delivery has begun.
+[1180] Truck #73 -- Delivery is blocked -- waiting.
+[1185] Truck #80 -- Delivery has begun.
+[1195] Truck #74 -- Delivery is blocked -- waiting.
+[1200] Truck #81 -- Delivery has begun.
+[1202] Truck #9 -- Delivery is complete.
+[1203] Truck #10 -- Delivery is complete.
+[1204] Truck #11 -- Delivery is complete.
+[1205] Truck #12 -- Delivery is complete.
+[1206] Truck #13 -- Delivery is complete.
+[1207] Truck #14 -- Delivery is complete.
+[1210] Truck #15 -- Delivery is complete.
+[1210] Truck #75 -- Delivery is blocked -- waiting.
+[1215] Truck #82 -- Delivery has begun.
+[1225] Truck #16 -- Delivery is complete.
+[1225] Truck #76 -- Delivery is blocked -- waiting.
+[1230] Truck #83 -- Delivery has begun.
+[1240] Truck #17 -- Delivery is complete.
+[1240] Truck #77 -- Delivery is blocked -- waiting.
+[1242] Train #7 -- No longer blocking -- past the crossing.
+[1242] Truck #71 -- Crossing the railroad.
+[1243] Truck #72 -- Crossing the railroad.
+[1244] Truck #73 -- Crossing the railroad.
+[1245] Truck #74 -- Crossing the railroad.
+[1246] Truck #75 -- Crossing the railroad.
+[1247] Truck #76 -- Crossing the railroad.
+[1248] Truck #77 -- Crossing the railroad.
+[1255] Truck #78 -- Crossing the railroad.
+[1255] Truck #18 -- Delivery is complete.
+[1270] Truck #79 -- Crossing the railroad.
+[1270] Truck #19 -- Delivery is complete.
+[1285] Truck #80 -- Crossing the railroad.
+[1300] Truck #81 -- Crossing the railroad.
+[1312] Truck #20 -- Delivery is complete.
+[1313] Truck #21 -- Delivery is complete.
+[1315] Truck #82 -- Crossing the railroad.
+[1315] Truck #22 -- Delivery is complete.
+[1325] Train #10 -- Entered the crossing -- now blocking.
+[1330] Truck #23 -- Delivery is complete.
+[1330] Truck #83 -- Delivery is blocked -- waiting.
+[1380] Train #10 -- No longer blocking -- past the crossing.
+[1380] Truck #83 -- Crossing the railroad.
+[1382] Train #4 -- Entered the crossing -- now blocking.
+[1412] Train #4 -- No longer blocking -- past the crossing.
+[1448] Train #6 -- Entered the crossing -- now blocking.
+[1464] Truck #24 -- Delivery is complete.
+[1465] Truck #25 -- Delivery is complete.
+[1465] Truck #32 -- Delivery is complete.
+[1466] Truck #26 -- Delivery is complete.
+[1467] Truck #27 -- Delivery is complete.
+[1468] Truck #28 -- Delivery is complete.
+[1469] Truck #29 -- Delivery is complete.
+[1470] Truck #30 -- Delivery is complete.
+[1471] Truck #31 -- Delivery is complete.
+[1480] Truck #33 -- Delivery is complete.
+[1492] Train #6 -- No longer blocking -- past the crossing.
+[1495] Truck #34 -- Delivery is complete.
+[1510] Truck #35 -- Delivery is complete.
+[1525] Truck #36 -- Delivery is complete.
+[1595] Truck #37 -- Delivery is complete.
+[1596] Truck #38 -- Delivery is complete.
+[1597] Truck #39 -- Delivery is complete.
+[1598] Truck #40 -- Delivery is complete.
+[1600] Truck #41 -- Delivery is complete.
+[1615] Truck #42 -- Delivery is complete.
+[1630] Truck #43 -- Delivery is complete.
+[1645] Truck #44 -- Delivery is complete.
+[1660] Truck #45 -- Delivery is complete.
+[1728] Truck #46 -- Delivery is complete.
+[1729] Truck #47 -- Delivery is complete.
+[1730] Truck #48 -- Delivery is complete.
+[1731] Truck #49 -- Delivery is complete.
+[1735] Truck #50 -- Delivery is complete.
+[1750] Truck #51 -- Delivery is complete.
+[1904] Truck #52 -- Delivery is complete.
+[1905] Truck #53 -- Delivery is complete.
+[1906] Truck #54 -- Delivery is complete.
+[1907] Truck #55 -- Delivery is complete.
+[1908] Truck #56 -- Delivery is complete.
+[1909] Truck #57 -- Delivery is complete.
+[1910] Truck #58 -- Delivery is complete.
+[1911] Truck #59 -- Delivery is complete.
+[1912] Truck #60 -- Delivery is complete.
+[1913] Truck #61 -- Delivery is complete.
+[1915] Truck #62 -- Delivery is complete.
+[1989] Truck #63 -- Delivery is complete.
+[1990] Truck #67 -- Delivery is complete.
+[1990] Truck #64 -- Delivery is complete.
+[1991] Truck #65 -- Delivery is complete.
+[1992] Truck #66 -- Delivery is complete.
+[2005] Truck #68 -- Delivery is complete.
+[2020] Truck #69 -- Delivery is complete.
+[2035] Truck #70 -- Delivery is complete.
+[2142] Truck #71 -- Delivery is complete.
+[2143] Truck #72 -- Delivery is complete.
+[2144] Truck #73 -- Delivery is complete.
+[2145] Truck #74 -- Delivery is complete.
+[2146] Truck #75 -- Delivery is complete.
+[2147] Truck #76 -- Delivery is complete.
+[2148] Truck #77 -- Delivery is complete.
+[2155] Truck #78 -- Delivery is complete.
+[2170] Truck #79 -- Delivery is complete.
+[2185] Truck #80 -- Delivery is complete.
+[2200] Truck #81 -- Delivery is complete.
+[2215] Truck #82 -- Delivery is complete.
+[2280] Truck #83 -- Delivery is complete.
+
+Input file used: train_schedule.txt
+Delivery took 2280 seconds using 45.0% drones!
